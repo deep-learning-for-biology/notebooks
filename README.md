@@ -19,8 +19,6 @@ This repo contains **Executable notebooks** for the five main project chapters o
 
 You can run the notebooks directly on **Google Colab** and select a GPU backend (usage limits apply). Simply visit [colab](https://colab.research.google.com/) and upload one of the notebook files in `./notebooks`.
 
-⚠️ Note: We are in the process of migrating datasets to a service with lower egress costs. Later chapters rely on much larger datasets, where frequent transfers would be prohibitively expensive with our current host. Until this migration is complete (expected within the coming week), public downloads are not easily available. If you have a GCP account and are comfortable using `requester-pays`, please get in touch. Apologies for the inconvenience caused.
-
 ℹ️ Instructions on how to run the notebooks in more controlled environments will be added in the future.
 
 ## Contributing
