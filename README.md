@@ -6,12 +6,12 @@ Welcome to the companion repository for **Deep Learning for Biology**, an O’Re
 
 The goal of this repo is to make it easy for students, practitioners, and researchers to follow along with the book’s content, and also to experiment, extend, and apply the methods discussed in the book to their own biological problems.
 
-This repo contains **Executable notebooks** for the five main project chapters of the book:
-  - Chapter 2: *Learning the Language of Proteins*
-  - Chapter 3: *Learning from DNA Sequences*
-  - Chapter 4: *Understanding Drug–Drug Interactions Using Graphs*
-  - Chapter 5: *Detecting Skin Cancer in Medical Images*
-  - Chapter 6: *Learning Spatial Organization Patterns Within Cells*
+This repo contains **Executable notebooks** for the five main project chapters of the book: 
+  - Chapter 2: *Learning the Language of Proteins* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deep-learning-for-biology/notebooks/blob/main/notebooks/chapter_2_proteins.ipynb)
+  - Chapter 3: *Learning from DNA Sequences* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deep-learning-for-biology/notebooks/blob/main/notebooks/chapter_3_dna.ipynb)
+  - Chapter 4: *Understanding Drug–Drug Interactions Using Graphs* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deep-learning-for-biology/notebooks/blob/main/notebooks/chapter_4_graphs.ipynb)
+  - Chapter 5: *Detecting Skin Cancer in Medical Images* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deep-learning-for-biology/notebooks/blob/main/notebooks/chapter_5_cancer.ipynb)
+  - Chapter 6: *Learning Spatial Organization Patterns Within Cells* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deep-learning-for-biology/notebooks/blob/main/notebooks/chapter_6_localization.ipynb)
 
 ⚠️ Note: the text content of the chapters has been stripped; the notebooks contain only the code blocks. Please consult the book (print or PDF) for the full content.
 
